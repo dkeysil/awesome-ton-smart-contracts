@@ -4,8 +4,8 @@
 
 ## Про fift и func на которых пишутся смартконтракты:
 1. Fift https://newton-blockchain.github.io/docs/fiftbase.pdf
-2. https://ton.org/docs/#/func
-3. Инструкции фифта на c++ https://github.com/newton-blockchain/ton/blob/9875f02ef4ceba5b065d5e63c920f91aec73224e/crypto/fift/words.cpp#L2723-L3110
+2. FunC https://ton.org/docs/#/func
+3. Инструкции Fift на C++ https://github.com/newton-blockchain/ton/blob/9875f02ef4ceba5b065d5e63c920f91aec73224e/crypto/fift/words.cpp#L2723-L3110
 
 ## Примеры смартконтрактов:
 1. https://github.com/newton-blockchain/ton/tree/master/crypto/smartcont
@@ -13,10 +13,11 @@
 3. Telegram contest, который содержит множество смартконтрактов
     1. https://contest.com/blockchain
     2. https://contest.com/blockchain-2 & https://contest.com/blockchain-2-bonus
+4. Заброшенный форум, но есть примеры смартконтрактов https://tontalk.org/forums/3/
 
 ## Статьи про написание смартконтрактов:
-1. https://ton.org/docs/#/howto/smart-contract-guidelines
-2. https://habr.com/ru/post/490772/
+1. Официальные рекомендации - https://ton.org/docs/#/howto/smart-contract-guidelines
+2. Написание, деплой и использование смарт контракта лотереи - https://habr.com/ru/post/490772/
 3. https://telegra.ph/Hello-World-smart-kontrakt-dlya-TON-za-15-minut-11-19
 
 ## Деплой смартконтракта:
