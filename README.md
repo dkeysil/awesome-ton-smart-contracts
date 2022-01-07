@@ -4,4 +4,4 @@
 
 ## [На русском](https://github.com/DKeysil/awesome-ton-smart-contracts/tree/main/ru)
 
-## [In english (todo)](https://github.com/DKeysil/awesome-ton-smart-contracts/tree/main/en)
+## [In english](https://github.com/DKeysil/awesome-ton-smart-contracts/tree/main/en)
