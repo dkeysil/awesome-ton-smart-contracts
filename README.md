@@ -10,6 +10,9 @@
 ## Примеры смартконтрактов:
 1. https://github.com/newton-blockchain/ton/tree/master/crypto/smartcont
 2. https://github.com/ton-blockchain/wallet-contract
+3. Telegram contest, который содержит множество смартконтрактов
+    1. https://contest.com/blockchain
+    2. https://contest.com/blockchain-2 & https://contest.com/blockchain-2-bonus
 
 ## Статьи про написание смартконтрактов:
 1. https://ton.org/docs/#/howto/smart-contract-guidelines
