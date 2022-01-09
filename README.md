@@ -4,6 +4,13 @@
 
 ## [На русском](https://github.com/DKeysil/awesome-ton-smart-contracts/tree/main/ru)
 
+### FAQ
+
+#### What is smart-contract?
+> Self executing program hosted at blockchain. For example in the TON blockchain every wallet is smart-contract.
+> Smart-contract have state and persistent storage, which can contain any sort of variables.
+> Smart-contract can store data, move funds to other smart-contracts, compute something.
+
 ### About fift and func which are used to develop smart contracts:
 1. [Fift official docs](https://newton-blockchain.github.io/docs/fiftbase.pdf)
 2. [FunC official docs](https://ton.org/docs/#/func)
@@ -20,7 +27,7 @@
 6. [Smart contract with text sending](https://github.com/akifoq/ton-samples/blob/master/text/main.fc)
 
 ### Articles about smartcontracts:
-1. Oficial guidelines - https://ton.org/docs/#/howto/smart-contract-guidelines
+1. Official guidelines - https://ton.org/docs/#/howto/smart-contract-guidelines
 2. Develop, deploy and use lottery smart contract - https://habr.com/ru/post/494528/
 3. Extend wallet smart contract and deploy it - https://telegra.ph/Hello-World-TON-smart-contract-for-15-minutes-11-20
 
