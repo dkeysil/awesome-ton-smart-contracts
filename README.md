@@ -2,7 +2,9 @@
 
 > list of links to articles and tools which can help you to start developing smart-contracts for [TON](https://ton.org) blockchain
 
-## [На русском](https://github.com/DKeysil/awesome-ton-smart-contracts/tree/main/ru)
+## [На русском](ru)
+
+## [Some tips from chats](tips.md)
 
 ### FAQ
 
