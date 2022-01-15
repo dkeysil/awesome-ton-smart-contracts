@@ -2,12 +2,13 @@
 
 ## Contents
 1. [About bounce toncoins back](tips.md#1-about-bounce-toncoins-back)
+2. [Information about charging gas fees](tips.md#2-information-about-charging-gas-fees)
 
 ###  [1. About bounce toncoins back](https://t.me/tondev/44958)
 
 If you have the `throw_if` function (with code != 0) in recv_internal triggered and the bounce flag set([tblkch.pdf 4.2.5](https://newton-blockchain.github.io/docs/tblkch.pdf)), all coins will be sent back
 
-### 2. Information about charging gas fees
+### [2. Information about charging gas fees](https://t.me/tondev/45882)
 
 This information is based on this [discussion](https://github.com/DKeysil/awesome-ton-smart-contracts/issues/1)
 
