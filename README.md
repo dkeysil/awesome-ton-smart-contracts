@@ -27,6 +27,12 @@
 4. [Gambling smart contract](https://github.com/deNULL/ton-gamble)
 5. [Auction smart contract](https://github.com/deNULL/ton-auction)
 6. [Smart contract with text sending](https://github.com/akifoq/ton-samples/blob/master/text/main.fc)
+7. [Example of simple token contract](https://github.com/akifoq/TonToken)
+8. [Official draft fungible, non-fungible token contracts](https://github.com/ton-blockchain/token-contract)
+    * [NFT standart discussion](https://github.com/ton-blockchain/TIPs/issues/62)
+9. [Wallet v4 contract (Supports external plugins installation)](https://github.com/ton-blockchain/wallet-contract)
+    * [Subscribtion plugin](https://github.com/ton-blockchain/wallet-contract/blob/main/func/simple-subscription-plugin.fc)
+10. [TRC-20 (like ERC-20) token contract](https://github.com/cod1ng-studio/TRC20)
 
 ### Articles about smartcontracts:
 1. Official guidelines - https://ton.org/docs/#/howto/smart-contract-guidelines
