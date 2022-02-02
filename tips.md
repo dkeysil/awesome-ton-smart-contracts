@@ -3,6 +3,7 @@
 ## Contents
 1. [About bounce toncoins back](tips.md#1-about-bounce-toncoins-back)
 2. [Information about charging gas fees](tips.md#2-information-about-charging-gas-fees)
+3. [Spend less gas in huge smart contracts](tips.md#3-spend-less-gass-in-huge-smart-contracts)
 
 ###  [1. About bounce toncoins back](https://t.me/tondev/44958)
 
@@ -24,3 +25,10 @@ FunC docs:
 - [`accept_message`](https://ton.org/docs/#/func/stdlib?id=accept_message)
 - [`set_gas_limit`](https://ton.org/docs/#/func/stdlib?id=set_gas_limit)
 - [`raw_reserve`](https://ton.org/docs/#/func/stdlib?id=raw_reserve)
+
+### [3. Spend less gas in huge smart contracts](https://t.me/tondev/45956)
+
+`touch()` is tip to the compiler how best to organize the stack. The command puts a variable at top of the stack ([func docs](https://ton.org/docs/#/func/stdlib?id=impure_touch))
+
+example:
+In this [code](https://github.com/ton-blockchain/wallet-contract/blob/main/func/wallet-v4-code.fc#L90) `cs~touch();` will place `cs` on top of the stack and then the interaction with the variable will be cheaper
