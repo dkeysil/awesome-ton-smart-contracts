@@ -65,8 +65,9 @@ There are several options to start:
 2. [Documented generate.fif](https://gist.github.com/tvorogme/fdb174ac0740b6a52d1dbdf85f4ddc63) by t.me/tvorogme
 3. [Lite-client installation guide](https://ton.org/docs/#/howto/getting-started). Via lite-client you can send .boc file to deploy smart contract to blockchain
 
-### With Ton Whales js library:
-1. [js library](https://github.com/tonwhales/ton)
-2. [NFT contract example](https://github.com/tonwhales/ton-nft)
-3. [Smart contracts examples for library](https://github.com/tonwhales/ton-contracts)
+### IDE plugins and syntax highlighting
+1. [Intellij Platform plugin](https://github.com/andreypfau/intellij-ton)
+2. [neovim FunC syntax highlighting](https://github.com/PythoNyashka/neovim-ton-dev)
+3. Visual Studio Code [fift syntax highlighting](https://marketplace.visualstudio.com/items?itemName=dotcypress.language-fift)
+    and [FunC syntax highlighting](https://marketplace.visualstudio.com/items?itemName=raiym.FunC)
 
