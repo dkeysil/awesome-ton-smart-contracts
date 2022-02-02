@@ -13,6 +13,27 @@
 > Smart-contract have state and persistent storage, which can contain any sort of variables.
 > Smart-contract can store data, move funds to other smart-contracts, compute something.
 
+#### How to start using or developing smart-contracts?
+There are several options to start:
+1. [easy] Toncenter/tonweb JS library - https://github.com/toncenter/tonweb
+    
+    With that library you can easily start with predefined Wallet contracts: create wallet, transfer funds, use subscribtion plugin
+2. [medium] Tonwhales/ton TS library - https://github.com/tonwhales/ton
+    
+    With that library you can do same, what you can do with tonweb, 
+    but it also have [repo](https://github.com/tonwhales/ton-contracts) with additional contract
+    and [NFT contract](https://github.com/tonwhales/ton-nft)
+3. [hard] You can use FunC and Fift (special developed for TON) languages
+    
+    Try to start with this [article](https://habr.com/ru/post/494528/) and [this](https://telegra.ph/Hello-World-TON-smart-contract-for-15-minutes-11-20)
+    
+    If you feel that you like it read [this section](README.md#about-fift-and-func-which-are-used-to-develop-smart-contracts)
+
+#### Chats:
+* [en, ru] [Biggest TON Tech chat](https://t.me/tondev) - technical discussion about TON
+* [en, ru] [Chat about smart-contract developing](https://t.me/tonsc_chat)
+* [en] [Tonic discord channel for English-speaking TON developers](https://discord.gg/tWxm8nrKt8)
+
 ### About fift and func which are used to develop smart contracts:
 1. [Fift official docs](https://newton-blockchain.github.io/docs/fiftbase.pdf)
 2. [FunC official docs](https://ton.org/docs/#/func)
