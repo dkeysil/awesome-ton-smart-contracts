@@ -1,3 +1,4 @@
+
 # awesome-ton-smart-contracts
 
 > list of links to articles and tools which can help you to start developing smart-contracts for [TON](https://ton.org) blockchain
@@ -15,16 +16,18 @@
 
 #### How to start using or developing smart-contracts?
 There are several options to start:
+
 1. [easy] Toncenter/tonweb JS library - https://github.com/toncenter/tonweb
-    
     With that library you can easily start with predefined Wallet contracts: create wallet, transfer funds, use subscribtion plugin
-2. [medium] Tonwhales/ton TS library - https://github.com/tonwhales/ton
+2. [medium] Disintar/toncli CLI utility - https://github.com/disintar/toncli
+   1. It has well done documentation (deploy wallet by 2 commands) - https://github.com/disintar/toncli/blob/master/docs/quick_starat_guide.md
+3. [medium] Tonwhales/ton TS library - https://github.com/tonwhales/ton
     
     With that library you can do same, what you can do with tonweb, 
     but it also have [repo](https://github.com/tonwhales/ton-contracts) with additional contract
     and [NFT contract](https://github.com/tonwhales/ton-nft)
-3. [hard] You can use FunC and Fift (special developed for TON) languages
-    
+4. [hard] You can use FunC and Fift (special developed for TON) languages
+
     Try to start with this [article](https://habr.com/ru/post/494528/) and [this](https://telegra.ph/Hello-World-TON-smart-contract-for-15-minutes-11-20)
     
     If you feel that you like it read [this section](README.md#about-fift-and-func-which-are-used-to-develop-smart-contracts)
@@ -54,6 +57,7 @@ There are several options to start:
 9. [Wallet v4 contract (Supports external plugins installation)](https://github.com/ton-blockchain/wallet-contract)
     * [Subscribtion plugin](https://github.com/ton-blockchain/wallet-contract/blob/main/func/simple-subscription-plugin.fc)
 10. [TRC-20 (like ERC-20) token contract](https://github.com/cod1ng-studio/TRC20)
+11. [Examples of using fift runvm to run transactions](https://github.com/disintar/toncli/tree/master/src/toncli/projects/external_code)
 
 ### Articles about smartcontracts:
 1. Official guidelines - https://ton.org/docs/#/howto/smart-contract-guidelines
@@ -62,8 +66,9 @@ There are several options to start:
 
 ### Deploy smart contract:
 1. [Smart contract deployer](https://deployer.tonsc.org/) by t.me/ProjectManageRR
-2. [Documented generate.fif](https://gist.github.com/tvorogme/fdb174ac0740b6a52d1dbdf85f4ddc63) by t.me/tvorogme
-3. [Lite-client installation guide](https://ton.org/docs/#/howto/getting-started). Via lite-client you can send .boc file to deploy smart contract to blockchain
+2. [TON CLI](https://github.com/disintar/toncli) by t.me/disintar
+3. [Documented generate.fif](https://gist.github.com/tvorogme/fdb174ac0740b6a52d1dbdf85f4ddc63) by t.me/disintar
+4. [Lite-client installation guide](https://ton.org/docs/#/howto/getting-started). Via lite-client you can send .boc file to deploy smart contract to blockchain
 
 ### IDE plugins and syntax highlighting
 1. [Intellij Platform plugin](https://github.com/andreypfau/intellij-ton)
