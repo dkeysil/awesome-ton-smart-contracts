@@ -42,6 +42,13 @@ There are several options to start:
 2. [FunC official docs](https://ton.org/docs/#/func)
 3. [Fift instructions in C++](https://github.com/newton-blockchain/ton/blob/9875f02ef4ceba5b065d5e63c920f91aec73224e/crypto/fift/words.cpp#L2723-L3110)
 
+### About TL-B
+
+TL-B (Type Language - Binary) serves to describe the type system, constructors, and existing functions. For example we can use TL-B schemes to build binary structures associated with the TON blockchain. Special TL-B parsers can read schemes to deserialize binary data into different objects. (definition from the [documentation](https://github.com/tonuniverse/TL-B-docs))
+
+1. [Documentation with examples](https://github.com/tonuniverse/TL-B-docs)
+2. [Some about TL-B are described in tvm.pdf](https://newton-blockchain.github.io/docs/tvm.pdf)
+
 ### Smart contracts examples:
 1. [Official smart contracts (wallets, givers, etc.)](https://github.com/newton-blockchain/ton/tree/master/crypto/smartcont)
 2. https://github.com/ton-blockchain/wallet-contract
