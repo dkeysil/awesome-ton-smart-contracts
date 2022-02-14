@@ -55,6 +55,7 @@ TL-B (Type Language - Binary) serves to describe the type system, constructors, 
     * [Subscribtion plugin](https://github.com/ton-blockchain/wallet-contract/blob/main/func/simple-subscription-plugin.fc)
 10. [TRC-20 (like ERC-20) token contract](https://github.com/cod1ng-studio/TRC20)
 11. [Examples of using fift runvm to run transactions](https://github.com/disintar/toncli/tree/master/src/toncli/projects/external_code)
+12. [Slotmachine game smart contract](https://gregory-wimbelson.gitbook.io/ton-cookbook/)
 
 ### Articles about smartcontracts:
 1. Official guidelines - https://ton.org/docs/#/howto/smart-contract-guidelines
@@ -66,6 +67,7 @@ TL-B (Type Language - Binary) serves to describe the type system, constructors, 
 2. [TON CLI](https://github.com/disintar/toncli) by t.me/disintar
 3. [Documented generate.fif](https://gist.github.com/tvorogme/fdb174ac0740b6a52d1dbdf85f4ddc63) by t.me/disintar
 4. [Lite-client installation guide](https://ton.org/docs/#/howto/getting-started). Via lite-client you can send .boc file to deploy smart contract to blockchain
+5. [Compilation and deploy of the gambling smart contract](https://gregory-wimbelson.gitbook.io/ton-cookbook/compilation-and-deploy-of-the-ton-smart-contract)
 
 ### IDE plugins and syntax highlighting
 1. [Intellij Platform plugin](https://github.com/andreypfau/intellij-ton)
