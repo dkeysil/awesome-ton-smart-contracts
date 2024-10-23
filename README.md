@@ -73,3 +73,5 @@ TL-B (Type Language - Binary) serves to describe the type system, constructors, 
 3. Visual Studio Code [fift syntax highlighting](https://marketplace.visualstudio.com/items?itemName=dotcypress.language-fift)
     and [FunC syntax highlighting](https://marketplace.visualstudio.com/items?itemName=raiym.FunC)
 
+### More documentation
+1. [Chainstack Docs](https://docs.chainstack.com/docs/getting-started-with-ton-deploy-a-smart-contract) — guides on how to deploy smart contracts and how to work with the Jettons and the NFT.
